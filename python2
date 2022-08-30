@@ -1,0 +1,9 @@
+d={"name":"jayantijha","age":18,"address":"hometown"}
+print("age")
+print("name")
+print["age"]=20
+print["name"]="janvi"
+squares={1:1,2:4,3:9,4:16,5:25,6:36}
+print(squares.pop(4))
+print(squares)
+print(squares.popitem)
