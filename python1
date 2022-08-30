@@ -1,0 +1,5 @@
+print("hello")
+a=(10,20,"hello")
+b=("hello world")
+print(a,type(a))
+print(b,type(b))
